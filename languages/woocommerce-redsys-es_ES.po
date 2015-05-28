@@ -1,0 +1,255 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Redsys\n"
+"POT-Creation-Date: 2015-05-28 12:48+0100\n"
+"PO-Revision-Date: 2015-05-28 12:49+0100\n"
+"Last-Translator: David Táboas <dev@davidtaboas.es>\n"
+"Language-Team: David Táboas <dev@davidtaboas.es>\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: inc/class-wc-redsys.php:21
+msgid "Tarjeta de crédito (REDSYS)"
+msgstr ""
+
+#: inc/class-wc-redsys.php:22
+msgid "Esta es la opción de la pasarela de pago de Redsys."
+msgstr ""
+
+#: inc/class-wc-redsys.php:64
+msgid "Activar Redsys:"
+msgstr ""
+
+#: inc/class-wc-redsys.php:65
+msgid "Activar pago Redsys"
+msgstr ""
+
+#: inc/class-wc-redsys.php:71
+msgid "Título"
+msgstr ""
+
+#: inc/class-wc-redsys.php:73
+msgid "Payment method description that the customer will see on your checkout."
+msgstr ""
+"Descripción del método de pago que el cliente verá en el proceso de compra."
+
+#: inc/class-wc-redsys.php:74
+msgid "REDSYS"
+msgstr ""
+
+#: inc/class-wc-redsys.php:78
+msgid "Descripción"
+msgstr ""
+
+#: inc/class-wc-redsys.php:80
+msgid "Payment method description that the customer will see on your website."
+msgstr "Descripción del método de pago que el cliente verá en tu web."
+
+#: inc/class-wc-redsys.php:81
+msgid ""
+"Esta es la opción de la pasarela de pago con tarjeta de crédito de Redsys. "
+"Te ayudamos en todo lo que necesites desde nuestra web: <b>www.redsys.es</b> "
+"o desde el teléfono central: <b>902 198 747</b>."
+msgstr ""
+
+#: inc/class-wc-redsys.php:85
+msgid "Entorno de Redsys"
+msgstr ""
+
+#: inc/class-wc-redsys.php:87
+msgid "Entorno del proceso de pago."
+msgstr ""
+
+#: inc/class-wc-redsys.php:91
+msgid "Sis-d"
+msgstr ""
+
+#: inc/class-wc-redsys.php:92
+msgid "Sis-i"
+msgstr ""
+
+#: inc/class-wc-redsys.php:93
+msgid "Sis-t"
+msgstr ""
+
+#: inc/class-wc-redsys.php:94
+msgid "Sis"
+msgstr ""
+
+#: inc/class-wc-redsys.php:98
+msgid "Nombre Comercio"
+msgstr ""
+
+#: inc/class-wc-redsys.php:100
+msgid "Nombre Comercio."
+msgstr ""
+
+#: inc/class-wc-redsys.php:101
+msgid "Nombre"
+msgstr ""
+
+#: inc/class-wc-redsys.php:105
+msgid "FUC Comercio"
+msgstr ""
+
+#: inc/class-wc-redsys.php:107
+msgid "FUC del comercio."
+msgstr ""
+
+#: inc/class-wc-redsys.php:108
+msgid "FUC"
+msgstr ""
+
+#: inc/class-wc-redsys.php:112
+msgid "Tipos de pago permitidos"
+msgstr ""
+
+#: inc/class-wc-redsys.php:114
+msgid "Tipos de pago permitidos."
+msgstr ""
+
+#: inc/class-wc-redsys.php:118
+msgid "Todos"
+msgstr ""
+
+#: inc/class-wc-redsys.php:119
+msgid "Solo tarjeta"
+msgstr ""
+
+#: inc/class-wc-redsys.php:120
+msgid "Tarjeta y Iupay"
+msgstr ""
+
+#: inc/class-wc-redsys.php:124
+msgid "Clave secreta de encriptación"
+msgstr ""
+
+#: inc/class-wc-redsys.php:126
+msgid "Clave del comercio."
+msgstr ""
+
+#: inc/class-wc-redsys.php:127
+msgid "Clave"
+msgstr ""
+
+#: inc/class-wc-redsys.php:131
+msgid "Terminal"
+msgstr ""
+
+#: inc/class-wc-redsys.php:133
+msgid "Terminal del comercio."
+msgstr ""
+
+#: inc/class-wc-redsys.php:134
+msgid "1"
+msgstr ""
+
+#: inc/class-wc-redsys.php:138
+msgid "Tipo de Firma"
+msgstr ""
+
+#: inc/class-wc-redsys.php:140
+msgid "Firma del proceso de pago."
+msgstr ""
+
+#: inc/class-wc-redsys.php:144
+msgid "Ampliada"
+msgstr ""
+
+#: inc/class-wc-redsys.php:145
+msgid "Completa"
+msgstr ""
+
+#: inc/class-wc-redsys.php:149
+msgid "Tipo de Moneda"
+msgstr ""
+
+#: inc/class-wc-redsys.php:151
+msgid "Moneda del proceso de pago."
+msgstr ""
+
+#: inc/class-wc-redsys.php:155
+msgid "EURO"
+msgstr ""
+
+#: inc/class-wc-redsys.php:156
+msgid "DOLAR"
+msgstr ""
+
+#: inc/class-wc-redsys.php:157
+msgid "LIBRA"
+msgstr ""
+
+#: inc/class-wc-redsys.php:161
+msgid "Tipo de Transacción"
+msgstr ""
+
+#: inc/class-wc-redsys.php:163
+msgid "Tipo de Transacción del comercio."
+msgstr ""
+
+#: inc/class-wc-redsys.php:164
+msgid "0"
+msgstr ""
+
+#: inc/class-wc-redsys.php:168
+msgid "Recargo (%)"
+msgstr ""
+
+#: inc/class-wc-redsys.php:170
+msgid "Recargo del comercio."
+msgstr ""
+
+#: inc/class-wc-redsys.php:171
+msgid "00"
+msgstr ""
+
+#: inc/class-wc-redsys.php:175
+msgid "Activar Idiomas"
+msgstr ""
+
+#: inc/class-wc-redsys.php:177
+msgid "Idioma del proceso de pago."
+msgstr ""
+
+#: inc/class-wc-redsys.php:181
+msgid "No"
+msgstr ""
+
+#: inc/class-wc-redsys.php:182
+msgid "Si"
+msgstr ""
+
+#: inc/class-wc-redsys.php:334
+msgid "Pagar con Tarjeta de Crédito"
+msgstr ""
+
+#: inc/class-wc-redsys.php:334
+msgid "Cancelar Pedido"
+msgstr ""
+
+#: inc/class-wc-redsys.php:341
+msgid ""
+"Gracias por su pedido, por favor pulsa el botón para pagar con Tarjeta de "
+"Crédito."
+msgstr ""
+
+#: woocommerce-redsys.php:91
+#, php-format
+msgid "WooCommerce RedSys depends on the last version of %s to work!"
+msgstr ""
+
+#: woocommerce-redsys.php:91
+msgid "WooCommerce"
+msgstr ""
